@@ -1,7 +1,7 @@
 # Big BOT
 BIG Discord BOT / คะเมียวตําปรู๊ช คะเมียวตําปรัช
 
-## Install <hr>
+## Install
 
 Create discord application on [Discord Developers](https://discord.com/developers/applications)
 
