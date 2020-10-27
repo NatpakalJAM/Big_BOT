@@ -1,0 +1,40 @@
+[
+    {
+        "prefix": "^ping$",
+        "response": {
+            "type": "random",
+            "list": [
+                "PONG!",
+                "pong!",
+                "ping pong"
+            ]
+        }
+    },
+    {
+        "prefix": "^คะเมียวตําปรู๊ช$",
+        "response": {
+            "type": "normal",
+            "list": [
+                "คะเมียวตําปร๊าส"
+            ]
+        }
+    },
+    {
+        "prefix": "^สาวๆเดินผ่านมา$",
+        "response": {
+            "type": "normal",
+            "list": [
+                "อะชิชิป่ะเห้ย์~"
+            ]
+        }
+    },
+    {
+        "prefix": "^อะชิชิป่ะเห้ย์$",
+        "response": {
+            "type": "normal",
+            "list": [
+                "นั่นของกู!!"
+            ]
+        }
+    }
+]
